@@ -1,2 +1,2 @@
 # Analog-Clock-
-I have made a Analog Clock using vanilla Javascript.
+I have made a Analog Clock Webssite using vanilla Javascript.
